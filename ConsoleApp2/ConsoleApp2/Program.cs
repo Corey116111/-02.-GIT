@@ -8,5 +8,4 @@ public class Program
     {
         Console.WriteLine("вроде работает");
     }
-    
 }
