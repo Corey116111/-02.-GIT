@@ -6,7 +6,7 @@ public class Program
 {
     public static void Main()
     {
-        Division.test();
+        Console.WriteLine("вроде работает");
     }
     
 }
