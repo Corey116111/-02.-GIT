@@ -1,0 +1,6 @@
+C:\Users\вика\source\repos\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.csproj.AssemblyReference.cache
+C:\Users\вика\source\repos\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.csproj.CoreCompileInputs.cache
+C:\Users\вика\source\repos\ClassLibrary5\ClassLibrary5\bin\Debug\ClassLibrary5.dll
+C:\Users\вика\source\repos\ClassLibrary5\ClassLibrary5\bin\Debug\ClassLibrary5.pdb
+C:\Users\вика\source\repos\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.dll
+C:\Users\вика\source\repos\ClassLibrary5\ClassLibrary5\obj\Debug\ClassLibrary5.pdb
