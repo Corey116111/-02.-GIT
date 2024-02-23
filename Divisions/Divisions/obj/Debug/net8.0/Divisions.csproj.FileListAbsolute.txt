@@ -1,0 +1,11 @@
+C:\Users\borovkov\source\repos\Divisions\Divisions\bin\Debug\net8.0\Divisions.deps.json
+C:\Users\borovkov\source\repos\Divisions\Divisions\bin\Debug\net8.0\Divisions.dll
+C:\Users\borovkov\source\repos\Divisions\Divisions\bin\Debug\net8.0\Divisions.pdb
+C:\Users\borovkov\source\repos\Divisions\Divisions\obj\Debug\net8.0\Divisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borovkov\source\repos\Divisions\Divisions\obj\Debug\net8.0\Divisions.AssemblyInfoInputs.cache
+C:\Users\borovkov\source\repos\Divisions\Divisions\obj\Debug\net8.0\Divisions.AssemblyInfo.cs
+C:\Users\borovkov\source\repos\Divisions\Divisions\obj\Debug\net8.0\Divisions.csproj.CoreCompileInputs.cache
+C:\Users\borovkov\source\repos\Divisions\Divisions\obj\Debug\net8.0\Divisions.dll
+C:\Users\borovkov\source\repos\Divisions\Divisions\obj\Debug\net8.0\refint\Divisions.dll
+C:\Users\borovkov\source\repos\Divisions\Divisions\obj\Debug\net8.0\Divisions.pdb
+C:\Users\borovkov\source\repos\Divisions\Divisions\obj\Debug\net8.0\ref\Divisions.dll
